@@ -1,0 +1,16 @@
+#map {
+    height: 100vh;
+    width: auto;
+}
+
+.label {
+    background-color: rgba(255, 255, 255, 0);
+    /* This sets the background color to a semi-transparent orange */
+    color: #ffffff;
+    /* This sets the text color to black */
+    padding: 6px;
+    border-radius: 10%;
+    font-family: 'Lucida Sans Regular', 'Lucida Grande';
+    font-size: 10px;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
